@@ -1,0 +1,11 @@
+torch
+transformers
+sentence-transformers
+langchain
+tqdm
+accelerate
+pypdf
+chromadb
+unidecode
+gradio
+langchain_community
