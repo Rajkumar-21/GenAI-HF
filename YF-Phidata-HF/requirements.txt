@@ -1,5 +1,0 @@
-transformers
-phidata
-torch
-yfinance
-python-dotenv
